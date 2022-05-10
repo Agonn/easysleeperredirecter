@@ -11,3 +11,10 @@
   to = "https://groovepillows.com/:splat"
   status = 301
   force = true
+
+
+  [[redirects]]
+  from = "/"
+  to = "https://groovepillows.com/"
+  status = 301
+  force = true
