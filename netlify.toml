@@ -8,13 +8,13 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://groovepillows.com/:splat"
+  to = "https://groovepillows.co.uk/:splat"
   status = 301
   force = true
 
 
   [[redirects]]
   from = "/"
-  to = "https://groovepillows.com/"
+  to = "https://groovepillows.co.uk"
   status = 301
   force = true
